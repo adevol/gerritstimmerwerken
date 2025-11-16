@@ -260,19 +260,19 @@ function App() {
                 <ul className="space-y-2 text-stone-600">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-amber-600 rounded-full"></span>
-                    Reuver & Geleen (Limburg)
+                    Limburg (NL en BE)
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-amber-600 rounded-full"></span>
-                    Geldrop en omgeving
+                    Noord-Brabant
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-amber-600 rounded-full"></span>
-                    Den Bosch
+                    Zuid-Holland
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-amber-600 rounded-full"></span>
-                    Breda en de rest van Noord-Brabant
+                    Gelderland
                   </li>
                 </ul>
                 <p className="text-sm text-stone-600 mt-6 italic">
